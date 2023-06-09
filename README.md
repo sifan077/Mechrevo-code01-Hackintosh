@@ -24,7 +24,7 @@
 | 硬盘             | Great Wall 3500   |
 | 键盘             | PS2 controller    |
 | 触摸板           | I2C HID           |
-| 音频/3.5耳机接口 | ALC289            |
+| 音频/3.5耳机接口 | ALC269            |
 | 内存             | DDR4 3200MHz 32G  |
 
 ## 总览
