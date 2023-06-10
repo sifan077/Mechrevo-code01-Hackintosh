@@ -2144,7 +2144,7 @@
                     <key>revcpu</key>
                     <integer>1</integer>
                     <key>revcpuname</key>
-                    <string>AMD Ryzen 7 4800H</string>
+                    <string>AMD Ryzen 7 4800H with Radeon Graphics</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
